@@ -1,6 +1,7 @@
 # NedasN.github.io
 
-##what this repository is about
+**what this repository is about**  
+
 This repository was created for learning purposes. This repository teaches the use of Jekyll to automatically generate web pages.
 This repository is also used to learn github and working with it.
 
